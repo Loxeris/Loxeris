@@ -2,6 +2,18 @@
 
 
 
+```
+      )
+     (
+      )
+  _.-~(~-.
+ (@\`---'/.    Take a nice,
+('  `._.'  `)  hot cup of Tea ! 
+ `-..___..-'    
+                 
+```
+
+
 <!--
 **Loxeris/Loxeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
